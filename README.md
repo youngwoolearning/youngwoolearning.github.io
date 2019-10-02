@@ -1,18 +1,26 @@
-## **김영우 웹사이트**입니다.
+## 이곳은 **영우러닝(Youngwoo Learning)** 웹사이트입니다.
 
-일단 깃허브에 사이트를 만들었으니 아래 내용은 깃허브를 배워가면서 천천히 수정해보려고 합니다.^^
+일단 깃허브에 영우러닝 사이트를 만들었으니 깃허브를 배워가면서 천천히 만들어보려고 합니다.^^
 
 문의: youngwoolearning@gmail.com
 
-### == 
+### 페이지 설정
 
-You can use the [editor on GitHub](https://github.com/youngwoolearning/youngwoolearning.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[페이지 수정](https://github.com/youngwoolearning/youngwoolearning.github.io/edit/master/README.md)
+[페이지 환경설정](https://github.com/youngwoolearning/youngwoolearning.github.io/settings).
+이 페이지의 Jekyll Theme 및 세팅은 `_config.yml` 파일에 있음.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 참고자료
+
+Jekyll 사이트: [https://jekyllrb.com/](https://jekyllrb.com/)
+Jekyll 슬로건: "Transform your plain text into static websites and blogs."
+Github 자료: [https://help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics/)
+Markdown 관련 사항: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
 
 ### Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+아래는 Markdown conventions
 
 ```markdown
 Syntax highlighted code block
@@ -32,12 +40,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/youngwoolearning/youngwoolearning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
