@@ -2,7 +2,7 @@
 
 일단 깃허브에 영우러닝 사이트를 만들었으니 깃허브를 배워가면서 천천히 만들어보려고 합니다.^^
 
-<img src="youngwoolearning_at_github.png" width="1280" height="640">
+<img src="youngwoolearning_at_github.png" width="600" height="300">
 
 문의: youngwoolearning@gmail.com
 
