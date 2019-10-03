@@ -26,35 +26,3 @@
 <hr>
 #### 문의: youngwoolearning@gmail.com
 <hr>
-
-
-## 참고자료
-
-* Jekyll 사이트: [https://jekyllrb.com/](https://jekyllrb.com/)
-* Jekyll 슬로건: "Transform your plain text into static websites and blogs."
-* Github 자료: [https://help.github.com/categories/github-pages-basics/](https://help.github.com/categories/github-pages-basics/)
-* Markdown 관련 사항: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
-
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing.
-
-아래는 Markdown conventions
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
